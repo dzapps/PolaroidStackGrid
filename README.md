@@ -4,7 +4,7 @@ Demos for the [tutorial](http://tympanus.net/codrops/?p=26096) on how to create 
 
 [Article on Codrops](http://tympanus.net/codrops/?p=26096)
 
-[Demo](http://tympanus.net/Tutorials/PolaroidStackGrid/)
+[Demo](https://dzapps.github.io/PolaroidStackGrid/index.html)
 
 ## License
 
